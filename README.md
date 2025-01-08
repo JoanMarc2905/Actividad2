@@ -1,2 +1,1 @@
-# Actividad2
-Aquest és un document compartit
+Aquest és un document de text editat per l'Usuari 2
